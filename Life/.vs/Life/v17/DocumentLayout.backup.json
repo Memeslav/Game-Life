@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\stepa\\Downloads\\Test Live\\Life\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F2768051-8E7E-44DE-AE76-DB58DF705974}|Life\\Life.vcxproj|C:\\Users\\stepa\\Downloads\\Test Live\\Life\\Life\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F2768051-8E7E-44DE-AE76-DB58DF705974}|Life\\Life.vcxproj|solutionrelative:Life\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2768051-8E7E-44DE-AE76-DB58DF705974}|Life\\Life.vcxproj|C:\\Users\\stepa\\Downloads\\Test Live\\Life\\Life\\Map.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F2768051-8E7E-44DE-AE76-DB58DF705974}|Life\\Life.vcxproj|solutionrelative:Life\\Map.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2768051-8E7E-44DE-AE76-DB58DF705974}|Life\\Life.vcxproj|C:\\Users\\stepa\\Downloads\\Test Live\\Life\\Life\\Cell.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F2768051-8E7E-44DE-AE76-DB58DF705974}|Life\\Life.vcxproj|solutionrelative:Life\\Cell.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2768051-8E7E-44DE-AE76-DB58DF705974}|Life\\Life.vcxproj|C:\\Users\\stepa\\Downloads\\Test Live\\Life\\Life\\Cell.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F2768051-8E7E-44DE-AE76-DB58DF705974}|Life\\Life.vcxproj|solutionrelative:Life\\Cell.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2768051-8E7E-44DE-AE76-DB58DF705974}|Life\\Life.vcxproj|C:\\Users\\stepa\\Downloads\\Test Live\\Life\\Life\\Map.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F2768051-8E7E-44DE-AE76-DB58DF705974}|Life\\Life.vcxproj|solutionrelative:Life\\Map.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2768051-8E7E-44DE-AE76-DB58DF705974}|Life\\Life.vcxproj|C:\\Users\\stepa\\Downloads\\Test Live\\Life\\Life\\main.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F2768051-8E7E-44DE-AE76-DB58DF705974}|Life\\Life.vcxproj|solutionrelative:Life\\main.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cell.h",
+              "DocumentMoniker": "C:\\Users\\stepa\\Downloads\\Test Live\\Life\\Life\\Cell.h",
+              "RelativeDocumentMoniker": "Life\\Cell.h",
+              "ToolTip": "C:\\Users\\stepa\\Downloads\\Test Live\\Life\\Life\\Cell.h",
+              "RelativeToolTip": "Life\\Cell.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-04T18:49:10.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cell.cpp",
+              "DocumentMoniker": "C:\\Users\\stepa\\Downloads\\Test Live\\Life\\Life\\Cell.cpp",
+              "RelativeDocumentMoniker": "Life\\Cell.cpp",
+              "ToolTip": "C:\\Users\\stepa\\Downloads\\Test Live\\Life\\Life\\Cell.cpp",
+              "RelativeToolTip": "Life\\Cell.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-04T18:49:10.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Map.h",
+              "DocumentMoniker": "C:\\Users\\stepa\\Downloads\\Test Live\\Life\\Life\\Map.h",
+              "RelativeDocumentMoniker": "Life\\Map.h",
+              "ToolTip": "C:\\Users\\stepa\\Downloads\\Test Live\\Life\\Life\\Map.h",
+              "RelativeToolTip": "Life\\Map.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-04T18:49:10.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Map.cpp",
+              "DocumentMoniker": "C:\\Users\\stepa\\Downloads\\Test Live\\Life\\Life\\Map.cpp",
+              "RelativeDocumentMoniker": "Life\\Map.cpp",
+              "ToolTip": "C:\\Users\\stepa\\Downloads\\Test Live\\Life\\Life\\Map.cpp",
+              "RelativeToolTip": "Life\\Map.cpp",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAADAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-04T18:49:10.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "main.h",
+              "DocumentMoniker": "C:\\Users\\stepa\\Downloads\\Test Live\\Life\\Life\\main.h",
+              "RelativeDocumentMoniker": "Life\\main.h",
+              "ToolTip": "C:\\Users\\stepa\\Downloads\\Test Live\\Life\\Life\\main.h",
+              "RelativeToolTip": "Life\\main.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-04T18:49:10.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\stepa\\Downloads\\Test Live\\Life\\Life\\main.cpp",
+              "RelativeDocumentMoniker": "Life\\main.cpp",
+              "ToolTip": "C:\\Users\\stepa\\Downloads\\Test Live\\Life\\Life\\main.cpp",
+              "RelativeToolTip": "Life\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-04T18:49:10.472Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
